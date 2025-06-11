@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Platform Engineering Hub',
+  title: 'Platform Engineering Guide',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -74,9 +74,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Platform Engineering Hub',
+      title: 'Platform Engineering Guide',
       logo: {
-        alt: 'Platform Engineering Hub',
+        alt: 'Platform Engineering Guide',
         src: 'img/logo.svg',
       },
       items: [

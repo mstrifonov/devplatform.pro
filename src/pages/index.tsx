@@ -35,7 +35,7 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="Platform Engineering Hub"
+      title="Platform Engineering Guide"
       description="Центр знаний по Internal Developer Platform (IDPs) и Platform Engineering">
 
       <Head>
@@ -55,7 +55,7 @@ export default function Home(): ReactNode {
       <header className={styles.heroBanner}>
         <div className="container">
           <h1 className="hero__title">
-            Platform Engineering Hub
+            Platform Engineering Guide
           </h1>
           <p className="hero__subtitle">
             Центр знаний о Platform Engineering и Internal Developer Platforms (IDP).
