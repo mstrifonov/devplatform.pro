@@ -90,3 +90,7 @@ sidebar_position: 1
 👉 [Открыть репозиторий](https://github.com/mstrifonov/devplatform.pro) | [Создать Issue](https://github.com/mstrifonov/devplatform.pro/issues/new) | [Присоединиться в Telegram](https://t.me/trifonovit)  
 
 *Этот проект — коллективное знание. Ваш опыт сделает его лучше!*  
+
+
+#### Читайте далее:
+[- Когда вам нужна IDP?](./when_do_you_need_idp.md)
