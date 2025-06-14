@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://devplatform.pro/blog</id>
-    <title>Platform Engineering Hub Blog</title>
+    <title>Platform Engineering Guide Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://devplatform.pro/blog"/>
-    <subtitle>Platform Engineering Hub Blog</subtitle>
+    <subtitle>Platform Engineering Guide Blog</subtitle>
     <icon>https://devplatform.pro/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
